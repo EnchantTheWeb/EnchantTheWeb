@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://gifs.alphacoders.com/by_sub_category/175038" alt="NeNe">
+</div>
 
 <!--
 **EnchantTheWeb/EnchantTheWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
