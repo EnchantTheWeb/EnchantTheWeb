@@ -104,7 +104,7 @@ Ask me anything or visit my LinkedIn profile for more information! https://www.l
 <a href="https://www.facebook.com/EnchantTheWeb/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/enchanttheweb/;p0-" target="_blank">
+<a href="https://www.instagram.com/enchanttheweb/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.io/PiinkPiixii" target="_blank">
