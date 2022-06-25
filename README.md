@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on whatever it is you pay me to do! Just say the word and I'm there!  
   
 
-- 🌱 I’m currently learning more about WordPress and Full-Stack Development. I have recently completed training in JIRA, Kanban, and Confluence.  
+- 🌱 I’m currently learning more about WordPress and Full-Stack Development. I have recently completed training in JIRA, Kanban, and Confluence.  I have also been trained in Drupal 7-9!
   
 
 - 👩‍💻 I have a full time Technical Training position that I've been in for years and it is time for me to transition to tech full time! 
