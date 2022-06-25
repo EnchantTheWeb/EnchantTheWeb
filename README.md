@@ -22,7 +22,7 @@
 
 I have worked remotely for all of my web development freelance work, but have also worked remotely for companies since 2007.
 
-Ask me anything or visit my LinkedIn profile for more information! https://www.linkedin.com/in/elizabeth-m-459058235/   
+I'm happy to answer any questions you may have!
   
 
 - ⚡ Fun fact: I am an amazing "Google'er'"! 😅  
