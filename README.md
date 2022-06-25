@@ -145,7 +145,3 @@ Ask me anything or visit my LinkedIn profile for more information! https://www.l
                     align="center"
                 />
             </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
