@@ -15,10 +15,10 @@
 - 🔭 I’m currently working on whatever it is you pay me to do! Just say the word and I'm there!  
   
 
-- 🌱 I’m currently learning more about WordPress and Full-Stack Development. I have recently completed training in JIRA, Kanban, and Confluence.  I have also been trained in Drupal 7-9!
+- 🌱 I’m fluent in WordPress and am developing more anf more skills toward Full-Stack Development daily. I have recently completed training in JIRA, Kanban, and Confluence.  I have also been trained in Drupal 7-9! I am very comfortable with ClickUp and Slack as well. 
   
 
-- 👩‍💻 For nesrly the last 3 years I have worked as a Sr Frontend Developer for a company that maintaind a large number of web clients on the wpengine platform. I am cery comfortable with wordpress, site maintenance and updating, backend development, as well as both custom and premade theme site builds. Anything I dont know Im more than willing to learn if it means worlikg with an amazing team!
+- 👩‍💻 For nearly the last 3 years I have worked as a Sr Frontend Developer for a company that maintaind a large number of web clients on the wpengine platform. I am very comfortable with wordpress, site maintenance and updating, backend development, as well as both custom and premade theme site builds. Anything I dont know I'm more than willing to learn if it means working with an amazing team!
 
 I have worked remotely for all of my web development freelance work, but have also worked remotely for other companies since 2007.
 
