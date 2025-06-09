@@ -18,9 +18,9 @@
 - 🌱 I’m currently learning more about WordPress and Full-Stack Development. I have recently completed training in JIRA, Kanban, and Confluence.  I have also been trained in Drupal 7-9!
   
 
-- 👩‍💻 I have a full time Technical Training position that I've been in for years and it is time for me to transition to tech full time! 
+- 👩‍💻 For nesrly the last 3 years I have worked as a Sr Frontend Developer for a company that maintaind a large number of web clients on the wpengine platform. I am cery comfortable with wordpress, site maintenance and updating, backend development, as well as both custom and premade theme site builds. Anything I dont know Im more than willing to learn if it means worlikg with an amazing team!
 
-I have worked remotely for all of my web development freelance work, but have also worked remotely for companies since 2007.
+I have worked remotely for all of my web development freelance work, but have also worked remotely for other companies since 2007.
 
 I'm happy to answer any questions you may have!
   
